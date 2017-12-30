@@ -1,9 +1,14 @@
 # Site navigation links
 
-- title: Teaching 教学
+- title: 教学
   url: /teaching/
   excerpt: "含体验式教学及混合式教学"
   image: learning_teaching.gif
+
+- title: 学生作品集
+  url: /portfolio/
+  excerpt: "在此展示学生作品集，好的丶可改进的及有趣的"
+  image: Portfolio.svg
 
 - title: i18nl10n
   url: /i18nl10n/
@@ -15,7 +20,7 @@
   excerpt: "可持续发展，含＂生态文明＂倡议"
   image: 300x200.gif
 
-- title: Contact 联络我
+- title: 联络我
   url: /contact/
   excerpt: "联络我"
   image: Pigeon_post.jpg
