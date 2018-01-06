@@ -1,17 +1,17 @@
 # Site navigation links
 
 - title: 网页设计作品集
-  url: /portfolio/
+  url: /posts/portfolio/
   excerpt: "web"
   image: rwd.jpg
 
 - title: 可视化作品集
-  url: /infovis/
+  url: /posts/infovis/
   excerpt: "ifovis"
   image: infovis.jpeg
 
 - title: 个人心得与笔记
-  url: /notes/
+  url: /posts/notes/
   excerpt: "notes"
   image: note.gif
 
