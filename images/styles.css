@@ -1,0 +1,169 @@
+span {
+	display: inline-block;
+	height: 2rem;
+	width: 2rem;
+	background-color: black;
+}
+
+.left>span:nth-child(2) {
+	background-color: rgb(237, 40, 49) ;
+} 
+.left>span:nth-child(3) {
+	background-color: rgb(237, 48, 149) ;
+} 
+.left>span:nth-child(4) {
+	background-color: rgb(179, 81, 158) ;
+} 
+.left>span:nth-child(5) {
+	background-color: rgb(101, 82, 163) ;
+} 
+.left>span:nth-child(6) {
+	background-color: rgb(53, 92, 171) ;
+} 
+.left>span:nth-child(7) {
+	background-color: rgb(1, 182, 235) ;
+} 
+.left>span:nth-child(8) {
+	background-color: rgb(0, 170, 132) ;
+} 
+.left>span:nth-child(9) {
+	background-color: rgb(0, 166, 82) ;
+} 
+.left>span:nth-child(10) {
+	background-color: rgb(40, 179, 72) ;
+} 
+.left>span:nth-child(11) {
+	background-color: rgb(232, 230, 71) ;
+} 
+.left>span:nth-child(12) {
+	background-color: rgb(243, 123, 47) ;
+} 
+.left>span:nth-child(13) {
+	background-color: rgb(238, 44, 45) ;
+}
+
+
+.left>span:nth-child(15) {
+	background-color: rgba(48, 95, 173,0.077) ;
+}
+.left>span:nth-child(16) {
+	background-color: rgba(48, 95, 173,0.16) ;
+}
+.left>span:nth-child(17) {
+	background-color: rgba(48, 95, 173,0.243) ;
+}
+.left>span:nth-child(18) {
+	background-color: rgba(48, 95, 173,0.326) ;
+}
+.left>span:nth-child(19) {
+	background-color: rgba(48, 95, 173,0.409) ;
+}
+.left>span:nth-child(20) {
+	background-color: rgba(48, 95, 173,0.492) ;
+}
+.left>span:nth-child(21) {
+	background-color: rgba(48, 95, 173,0.575) ;
+}
+.left>span:nth-child(22) {
+	background-color: rgba(48, 95, 173,0.668) ;
+}
+.left>span:nth-child(23) {
+	background-color: rgba(48, 95, 173,0.751) ;
+}
+.left>span:nth-child(24) {
+	background-color: rgba(48, 95, 173,0.834) ;
+}
+.left>span:nth-child(25) {
+	background-color: rgba(48, 95, 173,0.917) ;
+}
+.left>span:nth-child(26) {
+	background-color: rgb(48, 95, 173) ;
+}
+
+.left>span:nth-child(28) {
+	background-color: hsl(215,44.5%,53.3%) ;
+}
+.left>span:nth-child(29) {
+	background-color: hsl(215,44.5%,47.97%) ;
+}
+.left>span:nth-child(30) {
+	background-color: hsl(215,44.5%,43.17%) ;
+}
+.left>span:nth-child(31) {
+	background-color: hsl(215,44.5%,40%) ;
+}
+.left>span:nth-child(32) {
+	background-color: hsl(215,44.5%,35%) ;
+}
+.left>span:nth-child(33) {
+	background-color: hsl(215,44.5%,30%) ;
+}
+.left>span:nth-child(34) {
+	background-color: hsl(215,44.5%,25%) ;
+}
+.left>span:nth-child(35) {
+	background-color: hsl(215,44.5%,20%) ;
+}
+.left>span:nth-child(36) {
+	background-color: hsl(215,44.5%,15%) ;
+}
+.left>span:nth-child(37) {
+	background-color: hsl(215,44.5%,10%) ;
+}
+.left>span:nth-child(38) {
+	background-color: hsl(215,44.5%,7%) ;
+}
+.left>span:nth-child(39) {
+	background-color: hsl(215,44.5%,0%) ;
+}
+
+
+.span-class-1{
+	display: inline-block;
+	background-color: rgb(3, 2, 8);
+	color:rgb(255,255,255);
+	width:100%;
+	font-size: 1.5rem;
+	padding: 1rem ;
+}
+.span-class-2{
+	display: inline-block;
+	color:rgb(242,234,145);
+	width:100%;
+	font-size: 1.5rem;
+	padding: 1rem ;
+}
+.span-class-3{
+	display: inline-block;
+	color:rgb(96,96,134);
+	width:100%;
+	font-size: 1.5rem;
+	padding: 1rem ;
+}
+.span-class-4{
+	display: inline-block;
+	background: linear-gradient(#195594, #EDF6FD);
+	color:rgb(255,255,255);
+	width:100%;
+	font-size: 1.5rem;
+	padding: 1rem ;
+}
+.span-class-5{
+	display: inline-block;
+	background-color: rgb(100,190,110);
+	color:rgb(160,150,91);
+	width:100%;
+	font-size: 1.5rem;
+	padding: 1rem ;
+}
+
+	
+/* span:nth-child(-2n+3) {
+	background-color: #f90;
+	border-radius: 50%;
+} */
+
+span:nth-last-child(-n+3) {
+	background-color: #f90;
+	border-radius: 50%;
+}
