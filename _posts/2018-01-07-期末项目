@@ -1,14 +1,15 @@
 ---
 layout: article
-title:  "期末专题"
-date:   2018-01-05 11:16:50 +0800
-categories:  infovis 
+title:  "GDP与POP的关系"
+date:   2017-12-14 22:07:50 +0800
+categories: infovis tableau
+excerpt: "在tableau中制作的第一张图表"
 image:
-  teaser: makeup.jpg
-  feature: makeup.jpg
+  teaser: POP.jpg
+  feature: POP.jpg
 ---
 
-## 信息可视化期末项目
+信息可视化期末项目
 
 ## 我所采用的关键词： 屈臣氏，娇兰佳人，千色店，美颜坊，唐三彩，莎莎，妍丽
 ### 在全国范围内去搜索关键词门店
