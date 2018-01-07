@@ -6,7 +6,7 @@ modified:
 excerpt: "作品"
 tags: []
 image: 
-  feature: infovis.jpeg
+  feature: rwd.jpeg
   teaser:
 ---
 
