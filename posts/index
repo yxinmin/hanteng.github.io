@@ -1,18 +1,24 @@
 ---
 layout: archive
-title: "网页设计作品，可视化作品集，笔记"
-date: 2018-01-06T11:40:45-04:00
+title:  "学习笔记"
+date:   2017-11-30 22:07:50 +0800
 modified:
-excerpt: "作品"
+excerpt: "分为信息可视化笔记和web笔记"
 tags: []
-image: 
-  feature: posts.jpg
-  teaser:
+image:
+  feature: note.gif
+  teaser: note.gif
 ---
 
 
+
+在此展示我所触及的笔记
+
+
 <div class="tiles">
-{% for post in site.categories.portfolio %}
+{% for post in site.categories.posts %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 posts 的列出來-->
+</div><!-- /.tiles 把所有categories 有 posts 的列出来-->
+
+尝试着去做一下页面，或许你会有不一样的体验。
