@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "网页设计作品集"
+title: "信息可视化作品集"
 date: 2017-12-30T11:40:45-04:00
 modified:
 excerpt: "作品"
 tags: []
 image: 
-  feature: rwd.jpg
-  teaser:  rwd.jpg
+  feature: infovis.jpeg
+  teaser:
 ---
 
 
