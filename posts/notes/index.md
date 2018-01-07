@@ -6,8 +6,8 @@ modified:
 excerpt: "我的笔记"
 tags: []
 image: 
-  feature: notes.jpeg
-  teaser:
+  feature: notes.gif
+  teaser:
 ---
 
 
