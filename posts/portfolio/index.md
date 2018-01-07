@@ -7,7 +7,7 @@ excerpt: "作品"
 tags: []
 image: 
   feature: rwd.jpg
-  teaser:
+  teaser:  rwd.jpg
 ---
 
 
