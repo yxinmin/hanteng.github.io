@@ -7,7 +7,7 @@ excerpt: "我的笔记"
 tags: []
 image: 
   feature: notes.gif
-  teaser:
+  teaser:
 ---
 
 
