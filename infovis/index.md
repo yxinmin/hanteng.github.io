@@ -15,5 +15,5 @@ image:
 {% for post in site.categories.portfolio %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有infovis 的列出來-->
+</div><!-- /.tiles 把所有categories 有tableau的列出來-->
 
