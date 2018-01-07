@@ -1,0 +1,27 @@
+---
+layout: article
+title:  "能源消费与市场"
+date:   2018-01-05 11:16:50 +0800
+categories: posts infovis 
+image:
+  teaser: 能源.jpg
+  feature: 能源.jpg
+---
+
+
+## 专题简述
+-能源是人们日常生活的必备要素，也是实现GDP增长的根本动力。所以我们组从能源消费量与GDP的关系、单位GDP能耗、能源消费结构等方面探讨中国的经济发展与节能减耗,提出协调能源消费与经济发展的想法与建议。
+
+## 概念：
+- 单位GDP能耗：单位GDP能耗是反映能源消费水平和节能降耗状况的主要指标，该指标说明一个国家经济活动中对能源的利用程度，不仅反映了经济结构和能源利用效率的变化，更直接反映了经济发展对能源的依赖程度。
+- 能源消费结构：各类能源消费量在能源总消费量中的比例，称为能源消费结构。能源结构是能源系统工程研究的重要内容，它直接影响国民经济各部门的最终用能方式，并反映人民的生活水平。能源结构调整是中国能源发展面临的重要任务之一。
+
+##天然气模块总结
+-各地区GDP与天然气消耗量有关系，越靠近趋势线的，天然气耗能与地区的GDP关系越大。详情请点下方链接
+<a href="https://public.tableau.com/views/vsvsGDP/sheet4?:embed=y&:embed_code_version=3&:loadOrderID=0&:display_count=yes">天然气散点图</a>
+<a href="https://public.tableau.com/views/vsvsGDP/sheet3?:embed=y&:embed_code_version=3&:loadOrderID=7&:display_count=yes">天然气条形图</a>
+
+## 作品：
+点击下面链接即可看到网页内容
+<a href="https://yxinmin.github.io/m.github.io" target="_blank">M组期中项目</a>
+
