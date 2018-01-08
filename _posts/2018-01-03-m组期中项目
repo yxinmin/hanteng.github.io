@@ -1,13 +1,13 @@
 ---
 layout: article
-title:  "能源消耗与经济发展关系"
-date:   2018-01-03 23:16:50 +0800
-categories: potfolio
+title:  "虚拟现实与增强现实的比较"
+date:   2018-01-03 11:16:50 +0800
+categories: potfolio 
 image:
   teaser: energy.jpg
   feature: energy.jpg
 ---
-小组期中作品
+ 小组期中作品
 
 ## 专题简述
 - 能源是人们日常生活的必备要素，也是实现GDP增长的根本动力。所以我们组从能源消费量与GDP的关系、单位GDP能耗、能源消费结构等方面探讨中国的经济发展与节能减耗
@@ -25,4 +25,5 @@ image:
 ## 作品：
 点击下面链接即可看到网页内容
 <a href="https://yxinmin.github.io/m.github.io" target="_blank">M组期中项目</a>
+
 
