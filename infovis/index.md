@@ -38,7 +38,7 @@ image:
 - 百度地图：<i class="fa fa-map-marker" aria-hidden="true"></i> 388笔
 
 ##### POI分布：珠江三角洲
-![高德地图数据-珠江三角洲]({{ "/images/VR_map_Pearl_Delta.jpg" | absolute_url }})
+![各省比较]({{ "/images/city.png" | absolute_url }})
 
 * 就珠江三角洲地区来看，数量最多的体育休闲服务分布最广。
 * 公司企业集中在深圳；生活服务多在广州，东莞两类各一点。
