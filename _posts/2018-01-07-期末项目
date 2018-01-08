@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "期末项目"
-date:   2018-01-07 08:45:50 +0800
+date:   2017-12-31 08:45:50 +0800
 categories: infovis tableau
 image:
   teaser: makeup.jpg
@@ -24,10 +24,10 @@ image:
 - 从地图上看，化妆品零售店在全国范围分布不均，在西北地区特别稀少，只有几家，而中东，东北特别密集。
 
 ## 结论：
--  经济发达的地方，化妆产业也特别发达，市场也特别好。
+- 经济发达的地方，化妆产业也特别发达，市场也特别好。
 
 ## 声明：
-- 数据是用高德地图api的key提取的，选取全国范围，数据可能没有特别精确，仅供参考。
+- 数据是从高德API的key提取的提取，选取去全国范围，数据可能没有特别精确，仅供参考。
 
 ## 作品：
-<a href="https://public.tableau.com/views/_17206/1_1?:embed=y&:display_count=yes&publish=yes" target="_blank">化妆品零售店</a>
+<a href="https://public.tableau.com/profile/.5270#!/vizhome/_17206/1_1" target="_blank">化妆品零售店</a>
