@@ -1,12 +1,12 @@
----
+--
 layout: archive
-title:  "网页设计与制作"
+title:  "RWD"
 date:   2018-01-01 22:07:50 +0800
 modified:
-excerpt:"rwd"
+excerpt:"web笔记"
 tags: []
 image: 
-  feature: posts.jpg
+  feature: books.jpg
   teaser:
 ---
 
