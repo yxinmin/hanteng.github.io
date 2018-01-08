@@ -1,0 +1,21 @@
+---
+layout: article
+title:  "css颜色调整"
+date:   2018-01-04 22:07:50 +0800
+categories: portfolio
+image:
+  teaser: color2.jpg
+  feature: color2.jpg
+---
+根据图片做成一个网页
+
+## 作品：
+
+- <a href="https://yxinmin.github.io/portfolio/color/index.html " target="_blank">sample</a>
+
+## 这是一个根据老师提供的图来制作成一个网页。（图片如下）
+![image](http://webstyleguide.com/wsg3/figures/7-page-design/7-11-700.jpg)
+
+## 制作过程：
+
+- 可参考：[制作color的过程（颜色修改）](https://jamieyin.github.io/posts/rwd/%E9%A2%9C%E8%89%B2%E4%BF%AE%E6%94%B9/)
