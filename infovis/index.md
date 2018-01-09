@@ -8,7 +8,7 @@ tags: []
 image: 
 ---
 <br/>高德地图API作品期末
-<div><a href="https://yxinmin.github.io/infovis/%E6%9C%9F%E6%9C%AB%E9%A1%B9%E7%9B%AE//"><img src="https://yxinmin.github.io/images/仪表板.png" alt="仪表板"></a></div>
+<a href="https://yxinmin.github.io/infovis/%E6%9C%9F%E6%9C%AB%E9%A1%B9%E7%9B%AE//"><img src="/images/仪表板.png" width="900" height="687" border="0" /></a>
 
 <br/>其他可视化作品
 <div class="tiles">
