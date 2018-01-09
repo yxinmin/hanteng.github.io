@@ -7,11 +7,11 @@ excerpt: ""
 tags: []
 image:
   feature: posts.jpg
-  teaser: posts.jpg
+  teaser: posts.jpg
 ---
 
 <div class="tiles">
-{% for post in site.categories.infovisnotes %}
+{% for post in site.categories.notes %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 rwd 的列出来-->
