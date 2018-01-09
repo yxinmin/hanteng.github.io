@@ -7,9 +7,9 @@ excerpt: ""
 tags: []
 image: 
 ---
-<br/>高德地图API作品
-<div><a href="https://yxinmin.github.io/infovis/%E6%9C%9F%E6%9C%AB%E9%A1%B9%E7%9B%AE//"><img src="https://10855865416.github.io/images/条形图.jpg" alt="数据图"></a></div>
-<br/>信息可视化作品
+<br/>高德地图API作品期末
+<div><a href="https://yxinmin.github.io/infovis/%E6%9C%9F%E6%9C%AB%E9%A1%B9%E7%9B%AE//"><img src="https://yxinmin.github.io/images/仪表板.png" alt="数据图"></a></div>
+<br/>其他可视化作品
 <div class="tiles">
 {% for post in site.categories.infovis %}
   {% include post-grid.html %}
