@@ -51,8 +51,8 @@ image:
 <br/>
 以下展示其他学生作品集，好的丶可改进的及有趣的
 
-<div class="tiles">
-{% for post in site.categories.SDG %}
+<div class="tiles">fovis
+{% for post in site.categories.infovis %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 fovis 的列出来-->
+</div><!-- /.tiles 把所有categories 有 infovis 的列出来-->
